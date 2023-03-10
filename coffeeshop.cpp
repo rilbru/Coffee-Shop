@@ -1,12 +1,3 @@
-/*****************************************************************************
-# Author:           Devri Anderson 
-# Lab:              Assignment #8
-# Date:             November 24, 2021
-# Description:      This progam is a coffee shop that takes input from the user to determine the total cost and calculates suggested tip amounts
-# Input:            int option, char choice, double userTip
-# Output:           double totalCost, double tenPercent, double fifteenPercent, double twentyPercent
-# Sources:          Assignment 7, Zybooks and zoom session
-******************************************************************************/
 #include <iostream>
 #include <iomanip>
 using namespace std;
